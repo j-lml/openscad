@@ -45,8 +45,7 @@ module agv() {
     
     //oreja
     translate([rbase-6 ,0,-1])
-        cube( [4, 1, 1] );
-    
+        cube( [4, 1, 1] );    
     translate([-rbase+2 ,0,-1])
         cube( [4, 1, 1] );
     
